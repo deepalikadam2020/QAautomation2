@@ -38,7 +38,7 @@ public class AutomationTesting {
 		
 
 		
-		System.out.println("hello git");
+		System.out.println("hello");
 		
 	}
 
